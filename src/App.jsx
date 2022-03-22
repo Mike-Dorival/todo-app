@@ -29,8 +29,6 @@ function App() {
     setTodos(removeTodo);
   };
 
-  // test commentaire
-
   return (
     <div className="app">
       <div className="todo-list">
